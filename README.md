@@ -57,4 +57,4 @@ Nessa página são apresentadas informações sobre o projeto, seu objetivo e a 
 
 ### Página individual do projeto
 
-![Página individual do projeto](./tela-projeto.png)
+![Página individual do projeto](./tela-projeto-individual.png)
